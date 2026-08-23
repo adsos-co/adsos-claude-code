@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adsos": {
+      "type": "http",
+      "url": "https://adsos.co/mcp/YOUR_64_CHARACTER_TOKEN_HERE"
+    }
+  }
+}

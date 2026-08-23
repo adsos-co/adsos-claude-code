@@ -1,0 +1,7 @@
+# Your adsOS connector token is a private credential. These files hold it and
+# must never be committed.
+.mcp.json
+.cursor/mcp.json
+.env
+
+.DS_Store
