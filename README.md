@@ -10,6 +10,12 @@ Works with **Claude Code**, **Codex** and **Cursor**.
 
 The first thing adsOS does is prove itself. Your AI gathers your ad and email numbers with your approval, adsOS digs through them, and you get back a growth plan built from your own data: what is working, what is quietly costing you, and what to do about it, in dollars. That demonstration is on us. If the plan does not earn your attention, you walk away with the plan.
 
+## What you are actually connecting
+
+There is a long road to becoming an excellent marketer. You could watch 800 hours of proven agency training, take the classes, pay $500 to $2,000 a month for a mentor community, and with a year of hard work you might get there. Our model team has done exactly that, and executes flawlessly. Imagine 50 people with 10 to 15 years of experience across every relevant discipline: paid ads, SEO, email, social, analytics, coalesced into one AI team. That is what you get with adsOS. And it works right where you already work, available right now.
+
+This is not a simple SaaS that can be copied. It is a huge working knowledge base with a team on top, and you can ask it anything.
+
 ## Quick start (about 5 minutes)
 
 ### 1. Get your connect link

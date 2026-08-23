@@ -2,7 +2,7 @@
 
 adsOS works through the AI you already use. The more of your marketing stack that AI can read, the faster and sharper every session gets: numbers pulled directly instead of asked for, checked instead of remembered.
 
-**None of this is required.** If your AI has no tools connected, adsOS walks it through simple exports instead, step by step. This page is the fast path, not a gate.
+**None of this is required.** If your AI has no tools connected, adsOS walks it through simple exports instead, step by step. But the more complete your data, the sharper your report: a few extra minutes here buys a lot in the result.
 
 ## What stays on your machine
 
