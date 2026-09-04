@@ -8,9 +8,9 @@ Works with **Claude Code**, **Codex** and **Cursor**.
 
 ## See what the team can do before a cent moves
 
-The first thing adsOS does is prove itself. Your AI gathers your ad and email numbers with your approval, adsOS digs through them, and you get back a growth plan built from your own data: what is working, what is quietly costing you, and what to do about it, in dollars. A card goes on file before the audit runs ($0 that day), and nothing is ever charged unless you read the finished report and approve it. If the plan does not earn your approval, you walk away with the plan.
+The first thing adsOS does is prove itself. Your AI gathers your ad and email numbers with your approval, adsOS digs through them, and you get back a growth plan built from your own data: what is working, what is quietly costing you, and what to do about it, in dollars. The audit is free, no card, and nothing is ever charged unless you read the finished report and approve it. If the plan does not earn your approval, you walk away with the plan.
 
-Pricing is public before you start: Base $95/mo (first month $76 on monthly), Ultimate $195/mo with unlimited director iteration, annual saves 30%. The full table is at [adsos.co/#pricing](https://adsos.co/#pricing).
+Pricing is public before you start: Core $29/mo, Growth $79/mo, Pro $149/mo, Agency $499/mo, each with a monthly credit allowance. Annual is ten months for twelve, and the first month is 20% off on monthly. Every worker turn is quoted in credits before it runs and only the credits used are charged. The full table is at [adsos.co/#pricing](https://adsos.co/#pricing).
 
 ## What you are actually connecting
 
