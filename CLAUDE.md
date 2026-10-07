@@ -1,6 +1,6 @@
 # adsOS workspace
 
-This folder connects your session to adsOS, a marketing department for your AI. The connector is configured in `.mcp.json` (server name: `adsos`).
+This folder connects your session to adsOS, a marketing department on one screen (the dashboard at adsos.co/app is the primary surface; this connector is the advanced lane that puts the same team inside your AI tool). The connector is configured in `.mcp.json` (server name: `adsos`).
 
 ## Session rules
 

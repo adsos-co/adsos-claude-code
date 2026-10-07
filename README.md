@@ -1,28 +1,25 @@
-# adsOS
+# adsOS: the advanced lane
 
-**Your AI just became a marketing department.**
+**adsOS is a marketing department on one screen.** A Director sets the priorities, a Manager assigns the work, and specialists deliver it; you approve what runs at **[adsos.co/app](https://adsos.co/app)**. Start with the free site analysis at **[adsos.co/go](https://adsos.co/go)**: your fixes become your first tasks, and the growth plan follows.
 
-adsOS gives the AI you already use a complete marketing team to draw on: paid ads, SEO, email, social and analytics specialists, with a director who keeps the whole plan coherent. Your AI connects once. Every session after that works from your real numbers and a plan that holds steady, session after session, even when your AI starts fresh.
+This repository is the **advanced lane**: it puts the same team inside the AI tool you already work in (**Claude Code**, **Codex** or **Cursor**), so your own AI can run the intake, read the plan and talk to the crew from your terminal. Everything it can do, the dashboard does on screen too; nothing here is required.
 
-Works with **Claude Code**, **Codex** and **Cursor**.
+## Who this is for
 
-## See what the team can do before a cent moves
+- You live in Claude Code, Codex or Cursor and want the adsOS crew reachable from there.
+- You want your own AI to carry the adsOS plan into the rest of your work (your codebase, your content, your ops).
 
-The first thing adsOS does is prove itself. Your AI gathers your ad and email numbers with your approval, adsOS digs through them, and you get back a growth plan built from your own data: what is working, what is quietly costing you, and what to do about it, in dollars. The audit is free, no card, and nothing is ever charged unless you read the finished report and approve it. If the plan does not earn your approval, you walk away with the plan.
+If that is not you, skip the repo entirely: [adsos.co/go](https://adsos.co/go) is the front door and the dashboard carries everything.
 
-Pricing is public before you start: Core $29/mo, Growth $79/mo, Pro $149/mo, Agency $499/mo, each with a monthly credit allowance. Annual is ten months for twelve, and the first month is 20% off on monthly. Every worker turn is quoted in credits before it runs and only the credits used are charged. The full table is at [adsos.co/#pricing](https://adsos.co/#pricing).
+## What you get
 
-## What you are actually connecting
-
-There is a long road to becoming an excellent marketer. You could watch 800 hours of proven agency training, take the classes, pay $500 to $2,000 a month for a mentor community, and with a year of hard work you might get there. Our model team has done exactly that, and executes flawlessly. Imagine 50 people with 10 to 15 years of experience across every relevant discipline: paid ads, SEO, email, social, analytics, coalesced into one AI team. That is what you get with adsOS, from $95 a month. And it works right where you already work, available right now.
-
-This is not a simple SaaS that can be copied. It is a huge working knowledge base with a team on top, and you can ask it anything.
+The same account, the same plan, the same crew. Pricing is public at [adsos.co/#pricing](https://adsos.co/#pricing): Core $29 a month with 1,500 credits, Growth $79 with 4,500, Pro $149 with 12,000, Agency $499 with 40,000. Annual is ten months for twelve, and the first month is 20% off on monthly. The free site analysis and the report cost nothing and need no card, and verifying your email adds 50 free credits to start.
 
 ## Quick start (about 5 minutes)
 
 ### 1. Get your connect link
 
-Request your growth plan at **[adsos.co](https://adsos.co)**. It arrives by email with your personal connect page and token. Already have the email? You are ready.
+Sign in at **[adsos.co/app](https://adsos.co/app)** (an email code; the free analysis at [adsos.co/go](https://adsos.co/go) opens the account) and open **Settings, then Advanced**. Your connect link is there. It is a private credential: treat it like a password.
 
 ### 2. Clone this repo and run setup
 
@@ -46,26 +43,24 @@ Say this:
 
 Your AI fetches the intake questions, works through them with you in plain conversation, gathers your marketing numbers with your approval, and submits. The report lands at your email and your AI gets the link too.
 
-## Give your AI its tools (optional, recommended)
+## Connections
 
-adsOS works through your AI, so the more of your marketing stack your AI can read, the faster and sharper every session gets: numbers pulled directly instead of asked for, checked instead of remembered. **[TOOLS.md](TOOLS.md)** walks through read-only connections for Klaviyo, Meta Ads and Google Ads, a few minutes each.
-
-None of it is required. If your AI has no tools connected, adsOS walks it through simple exports instead, step by step.
+Your marketing platforms connect to adsOS once, on the dashboard's Connections page (Meta, Klaviyo, your store; Google Ads coming). The public guides are at [adsos.co/tools](https://adsos.co/tools). Every connection you add makes both the dashboard and this lane faster and sharper. **[TOOLS.md](TOOLS.md)** covers the optional extra: giving your own AI read-only tools of its own, so it can pull numbers for you directly inside your terminal.
 
 ## What stays on your machine
 
-Every platform connection is between your AI and your platform. Your logins, tokens and credentials never touch adsOS. What reaches us is what the work needs: performance numbers, shown to you before they are sent.
+The token in this folder never leaves it (gitignored, never committed). Platform tokens you connect on the dashboard are sealed in a vault and destroyed the moment you disconnect.
 
 ## Troubleshooting
 
 | Symptom | Fix |
 |---|---|
 | adsOS tools not showing in the session | Restart your AI (new session) from inside this folder. Connectors are read at session start. |
-| "This link has expired or been replaced" | Request a fresh link at [adsos.co](https://adsos.co); it takes under a minute. Then run `./scripts/setup.sh` again. |
+| "This link has expired or been replaced" | Copy the current link from Settings, then Advanced at [adsos.co/app](https://adsos.co/app), and run `./scripts/setup.sh` again. |
 | Not sure if you are connected | Run `./scripts/check-adsos.sh` for a live status check. |
 
 ## What is adsOS?
 
-A marketing department for your AI, from [AZUA, LLC](https://adsos.co). How it works: [adsos.co/how](https://adsos.co/how).
+Your marketing department, on one screen, from [AZUA, LLC](https://adsos.co). How it works: [adsos.co/how](https://adsos.co/how). This repository is the advanced lane for operators who want their own AI in the loop.
 
 adsOS is a product of AZUA, LLC · 2093 Philadelphia Pike, Suite 5280, Claymont, DE 19703, USA

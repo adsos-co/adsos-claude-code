@@ -1,14 +1,14 @@
-# Give your AI its tools
+# Give your own AI its tools (advanced lane, optional)
 
-adsOS works through the AI you already use. The more of your marketing stack that AI can read, the faster and sharper every session gets: numbers pulled directly instead of asked for, checked instead of remembered.
+Your platforms connect to adsOS on the dashboard's Connections page (Meta, Klaviyo, your store; guides at [adsos.co/tools](https://adsos.co/tools)); that is where the team reads your numbers from. This page is the optional extra for the advanced lane: read-only tools for **your own AI**, so it can pull numbers for you directly inside your terminal instead of asking you for exports.
 
-**None of this is required.** If your AI has no tools connected, adsOS walks it through simple exports instead, step by step. But the more complete your data, the sharper your report: a few extra minutes here buys a lot in the result.
+**None of this is required.** If your AI has no tools connected, adsOS walks it through simple exports instead, step by step, and the dashboard's connections cover the team either way.
 
 ## What stays on your machine
 
 Every connection on this page is between your AI and your platform. Your logins, tokens and credentials never touch adsOS. What reaches us is what the work needs: performance numbers, shown to you before they are sent.
 
-And here is the part most people miss: **adsOS remembers**. Every session your AI runs with us is stored on our side, with detailed notes. Your assistant's own recall drifts between sessions; ours does not. Connect once, and the plan your AI is working from stays solid, session after session, even when your AI starts fresh.
+And here is the part most people miss: **adsOS remembers**. Everything your team learns lives on your account, with detailed notes. Your assistant's own recall drifts between sessions; ours does not. Connect once, and the plan your AI is working from stays solid, session after session, even when your AI starts fresh.
 
 ## Klaviyo (2 minutes)
 
@@ -48,4 +48,4 @@ Your growth plan is computed from ad and email numbers, so nothing here blocks y
 
 ---
 
-Not connected to adsOS yet? Get your growth plan link at [adsos.co](https://adsos.co). It arrives by email with your personal connect page.
+Not connected to adsOS yet? Start at [adsos.co/go](https://adsos.co/go); your connect link is under Settings, then Advanced on the dashboard.
